@@ -1,5 +1,5 @@
 <div id="top"></div>
- <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://i.imgur.com/gRmQxtq.gif?noredirect"></div> 
+ <div align="center" ><img width="100%" height="20%" alt="welcome to my profile!" src="https://i.imgur.com/gRmQxtq.gif?noredirect"></div> 
 
 
 <div align="center
