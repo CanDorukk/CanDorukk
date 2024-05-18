@@ -1,5 +1,5 @@
 <div id="top"></div>
- <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://gist.githubusercontent.com/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif"></div> 
+ <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://steamusercontent-a.akamaihd.net/ugc/934927864599979270/487E65FCC15C60E817F901A747D323B25AB584A1/"></div> 
 
 
 <div align="center
