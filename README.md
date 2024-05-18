@@ -1,7 +1,5 @@
 <div id="top"></div>
-<!-- <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://pa1.narvii.com/7708/2c455abeef85c7b4f52bc519e66336790234a8b1r1-640-261_hq.gif"></div> -->
-
-<div class="tenor-gif-embed" data-postid="25578371" data-share-method="host" data-aspect-ratio="2.78261" data-width="100%"><a href="https://tenor.com/view/welcome-gif-25578371">Welcome GIF</a>from <a href="https://tenor.com/search/welcome-gifs">Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<!-- <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://tenor.com/tr/view/welcome-gif-25578371"></div> -->
 
 
 <div align="center
