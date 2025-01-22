@@ -21,7 +21,7 @@
 -->
 
 <a href="https://www.instagram.com/can_.doruk/">
-    <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=can_.doruk&color=whitesmoke&style=for-the-badge&logo=instagram" height="22px" />
+    <img alt="link to my İnstagram" src="https://www.svgrepo.com/show/452229/instagram-1.svg" height="22px" />
 </a>
 
 
