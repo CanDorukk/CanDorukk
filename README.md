@@ -41,7 +41,7 @@
 
 <h2>:hammer_and_wrench: Platforms</h2>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="VS" alt="visual studio" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg" /></code>
+<code><img title="VS" alt="visual studio" width="30px" src="https://www.svgrepo.com/show/373390/vs2-opened.svg" /></code>
 <code><img title="JUPYTER" alt="jupyter" width="30px" src="https://www.svgrepo.com/show/353949/jupyter.svg" /></code>
 <code><img title="GitHub" alt="github" width="30px" src="https://www.svgrepo.com/show/475654/github-color.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" /></code>
