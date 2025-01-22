@@ -21,7 +21,7 @@
 -->
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <a href="https://www.instagram.com/can_.doruk/">
-    <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=can_.doruk&color=whitesmoke&style=for-the-badge&logo=Instagram-E4405F" height="22px" />
+    <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=can_.doruk&color=whitesmoke&style=for-the-badge&logo=instagram" height="22px" />
 </a>
 
 
