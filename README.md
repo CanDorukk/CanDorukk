@@ -46,6 +46,7 @@
 <code><img title="GitHub" alt="github" width="30px" src="https://www.svgrepo.com/show/475654/github-color.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://www.svgrepo.com/show/452210/git.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://www.svgrepo.com/show/452204/firefox.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://www.svgrepo.com/show/353631/dart.svg" /></code>
 <br>
 </br></br>
 
