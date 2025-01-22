@@ -19,7 +19,7 @@
     <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@yavuzzaallp&color=000&logo=x" height="22px">
 </a>
 -->
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
 <a href="https://www.instagram.com/can_.doruk/">
     <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=can_.doruk&color=whitesmoke&style=for-the-badge&logo=instagram" height="22px" />
 </a>
