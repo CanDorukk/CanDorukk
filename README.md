@@ -1,9 +1,9 @@
 <!-- <div id="top"></div>
  <div align="center" ><img width="100%"  alt="welcome to my profile!" src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></div> -->
 
-<div align="center
+
 <h1 align="center">Hi 👋, I'm Semahattin Can Doruk</h1>
-</div>
+
 
 <h2>:busts_in_silhouette:Contact me</h2>
 <a href="https://www.linkedin.com/in/candorukk/">
