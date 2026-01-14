@@ -5,24 +5,21 @@
 <h1 align="center">Hi 👋, I'm Semahattin Can Doruk</h1>
 
 <a href="https://www.linkedin.com/in/candorukk/">
-    <img 
-        alt="link to my LinkedIn"
-        src="https://img.shields.io/static/v1?label&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin"
-        height="22px" />
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+    alt="LinkedIn" />
 </a>
 
 <a href="mailto:semahattincandoruk@gmail.com">
-    <img 
-        alt="link to send me an email"
-        src="https://img.shields.io/static/v1?label&message=GMAIL&color=whitesmoke&style=for-the-badge&logo=gmail"
-        height="22px" />
+  <img 
+    src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"
+    alt="Email" />
 </a>
 
 <a href="https://www.instagram.com/can_.doruk/">
-    <img 
-        alt="link to my Instagram"
-        src="https://img.shields.io/static/v1?label&message=INSTAGRAM&color=whitesmoke&style=for-the-badge&logo=instagram&logoColor=black"
-        height="22px" />
+  <img 
+    src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"
+    alt="Instagram" />
 </a>
 
 </br>
