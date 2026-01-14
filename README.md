@@ -1,10 +1,10 @@
-<div id="top"></div>
+<!-- <div id="top"></div>
  <div align="center" ><img width="100%"  alt="welcome to my profile!" src="https://steamuserimages-a.akamaihd.net/ugc/929296966656994174/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></div> 
+-->
 
-
-<!-- <div align="center
+<div align="center
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=56F7F5&center=true&vCenter=true&random=false&width=846&height=55&lines=I'm+Semahattin+Can+Doruk;Universty+Student;Mobile+Application+Developer" alt="Typing SVG" /></a>
-</div>-->
+</div>
 
 <h2>:busts_in_silhouette:Contact me</h2>
 <a href="https://www.linkedin.com/in/candorukk/">
