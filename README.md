@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/candorukk/">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=candorukk&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" /> </a>
 
-<a href="mailto:can_.doruk@hotmail.com">
+<a href="mailto:semahattincandoruk@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=can_.doruk@hotmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 
@@ -55,10 +55,10 @@
 </details>
 -->
 
-
+<!--
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=846&height=55&lines=Take+Care%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
+</div>-->
 <br>
     
 <br>
