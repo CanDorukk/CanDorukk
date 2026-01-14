@@ -4,25 +4,26 @@
 
 <h1 align="center">Hi 👋, I'm Semahattin Can Doruk</h1>
 
-
-<h2>:busts_in_silhouette:Contact me</h2>
 <a href="https://www.linkedin.com/in/candorukk/">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" /> </a>
+    <img 
+        alt="link to my LinkedIn"
+        src="https://img.shields.io/static/v1?label&message=LINKEDIN&color=0A66C2&style=for-the-badge&logo=linkedin"
+        height="22px" />
+</a>
 
 <a href="mailto:semahattincandoruk@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=GMAIL&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img 
+        alt="link to send me an email"
+        src="https://img.shields.io/static/v1?label&message=GMAIL&color=whitesmoke&style=for-the-badge&logo=gmail"
+        height="22px" />
 </a>
-
-<!-- Twitter
- <a href="#">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@yavuzzaallp&color=000&logo=x" height="22px">
-</a>
--->
 
 <a href="https://www.instagram.com/can_.doruk/">
-    <img alt="link to my İnstagram" src="https://img.shields.io/static/v1?label&message=INSTAGRAM&color=whitesmoke&style=for-the-badge&logo=instagram&logoColor=black" height="22px" />
+    <img 
+        alt="link to my Instagram"
+        src="https://img.shields.io/static/v1?label&message=INSTAGRAM&color=whitesmoke&style=for-the-badge&logo=instagram&logoColor=black"
+        height="22px" />
 </a>
-
 
 </br>
 
