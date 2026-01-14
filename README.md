@@ -10,7 +10,7 @@
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=candorukk&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" /> </a>
 
 <a href="mailto:semahattincandoruk@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=can_.doruk@hotmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=semahattincandoruk@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 
 <!-- Twitter
